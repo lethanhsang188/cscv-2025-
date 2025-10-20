@@ -1,3 +1,0 @@
-Source: share2.png
-Decode: QR -> Caesar shift +5 (across ASCII)
-Share: (2, 224770860677244800791621415404633393675)

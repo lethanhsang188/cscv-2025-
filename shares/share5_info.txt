@@ -1,4 +1,0 @@
-Source: share5.pdf
-Open with password: ctf_2025
-Inspect metadata -> UTF-16 hex payload -> Vigenère (mod 128) with key 'ctf_2025' -> base64
-Share: (5, 25019457618722413877035949434840599806)
