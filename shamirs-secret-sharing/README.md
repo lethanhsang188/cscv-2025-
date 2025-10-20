@@ -85,8 +85,6 @@ shamirs-secret-sharing/
 ├── scripts/
 │   ├── reconstruct_key.py
 │   └── decrypt_vault.py
-├── vault/
-│   └── vault.enc
 └── README.md
 ```
 
